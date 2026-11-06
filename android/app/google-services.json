@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215805924874",
+    "project_id": "ldsw-firebase-app-b2dba",
+    "storage_bucket": "ldsw-firebase-app-b2dba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215805924874:android:497a45a5a1fcf3b39131f3",
+        "android_client_info": {
+          "package_name": "com.example.lds_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSlfksB-TR_2KOkTn6pYZRGCGxtstwZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
